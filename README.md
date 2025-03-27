@@ -19,7 +19,7 @@ It is designed to allow direct connection to a development board and supports:
 ## Academic Application
 
 This PCB was used in **Daisy Delgado-Zaragoza’s master's dissertation**:  
-> *[A Buck-Boost Current-Controlled Permanent Magnet Synchronous Motor Drive with Stiff Motor Terminal Voltage and Current Waveforms](https://ieeexplore.ieee.org/document/10860890/metrics#metrics)*
+> *[Single-Stage Three-Phase Buck-Boost DC/AC Converter Design, Analysis, and Validation](https://pdxscholar.library.pdx.edu/open_access_etds/6709/)*
 
 
 ![Gerber Image](https://github.com/yan7-psu/Sensor-PWM-Tester-Board/blob/main/gerber.PNG?raw=true)
