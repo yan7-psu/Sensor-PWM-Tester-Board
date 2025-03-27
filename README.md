@@ -1,6 +1,6 @@
 # Sensor/PWM Tester Board.
 
-This PCB was developed between **September 2023 and May 2024** at **Penn State University’s PGE Foundation Power Engineering Education Laboratory** under the guidance of **Dr. Mahima Gupta**. The design was created using **Altium Designer**.
+This PCB was developed from **September 2023 to May 2024** at **Portland State University’s PGE Foundation Power Engineering Education Laboratory** under the guidance of **Dr. Mahima Gupta**. The design was created using **Altium Designer**.
 
 ## Overview
 
