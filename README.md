@@ -1,11 +1,22 @@
 # Sensor/PWM Tester Board.
 
-This is the PCB I worked on from September 2023 - May 2024 @ PSU's PGE Foundation Power Engineering Education Laboratory under Dr. Mahima Gupta.
-It was built using Altium Designer.
+This PCB was developed between **September 2023 and May 2024** at **Penn State University’s PGE Foundation Power Engineering Education Laboratory** under the guidance of **Dr. Mahima Gupta**. The design was created using **Altium Designer**.
 
-This PCB provides support for 4 Voltage Sensors, 5 Current Sensors, 6 PWM outputs and 1 Motor sensor(Speed/Torque).
-The PCB allows a development board to be directly connected. It supports TI's LAUNCHXL-F280049C and LAUNCHXL-F28379D.
+## Overview
 
-This PCB was used for Daisy Delgado-Zaragoza's master dissertation: [A Buck-Boost Current-Controlled Permanent Magnet Synchronous Motor Drive with Stiff Motor Terminal Voltage and Current Waveforms](https://ieeexplore.ieee.org/document/10860890/metrics#metrics)
+The board provides interfacing support for:
 
-![Gerber Image](https://github.com/yan7-psu/Sensor-PWM-Tester-Board/blob/main/gerber.PNG?raw=true)
+- 4 Voltage Sensors  
+- 5 Current Sensors  
+- 6 PWM Outputs  
+- 1 Motor Sensor (Speed/Torque)  
+
+It is designed to allow direct connection to a development board and supports:
+
+- **TI LAUNCHXL-F280049C**  
+- **TI LAUNCHXL-F28379D**
+
+## Academic Application
+
+This PCB was used in **Daisy Delgado-Zaragoza’s master's dissertation**:  
+> *[A Buck-Boost Current-Controlled Permanent Magnet Synchronous Motor Drive with Stiff Motor Terminal Voltage and Current Waveforms](https://ieeexplore.ieee.org/document/10860890/metrics#metrics)*
